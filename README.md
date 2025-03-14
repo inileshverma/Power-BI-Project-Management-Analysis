@@ -15,7 +15,7 @@ This project focuses on analyzing multiple projects' costs, benefits, and comple
 - Cost and Benefit Over Time – A comparative analysis of project costs vs. benefits across different years (2021–2025).
 - Project Summary – Overview of different projects, their types, status (In-Progress or Cancelled), and financial impact.
 
-- Dashboard Interaction <a href="https://github.com/inileshverma/Power-BI-Project-Management-Analysis/blob/main/Project%20Management%20Dashboard.png">View Dashboard</a>
+- <a href="https://github.com/inileshverma/Power-BI-Project-Management-Analysis/blob/main/Project%20Management%20Dashboard.png">View Dashboard</a>
 
 ## Process
 - Data Collection – Gathered raw project data, including cost, benefit, phases, and regions.
