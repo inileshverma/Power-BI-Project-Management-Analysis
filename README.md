@@ -3,7 +3,7 @@
 This project focuses on analyzing multiple projects' costs, benefits, and completion rates using Power BI. The objective is to track key metrics such as project completion, cost, benefits, and phases, helping project managers make data-driven decisions and optimize resource allocation.
 
 ## Dataset used
-- <a href="[https://github.com/inileshverma/Power-BI-Project-Management-Analysis/blob/main/Project%20Management.pbix]">Dataset</a>
+- <a href="https://github.com/inileshverma/Power-BI-Project-Management-Analysis/blob/main/Project%20Management.pbix">Dataset</a>
 
 ## Key Performance Indicators (KPIs)
 - Project Completion Rate – Measures how much of the project is completed (0.87 in the given dashboard).
