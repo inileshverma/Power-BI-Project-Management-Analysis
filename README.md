@@ -1,4 +1,4 @@
-# Spectra-Tiles-Data-Analysis (Interactive Dashboard creation using MS PowerBI)
+# Project-Management-Analysis (Interactive Dashboard creation using MS PowerBI)
 ## Project Objective
 This project focuses on analyzing multiple projects' costs, benefits, and completion rates using Power BI. The objective is to track key metrics such as project completion, cost, benefits, and phases, helping project managers make data-driven decisions and optimize resource allocation.
 
